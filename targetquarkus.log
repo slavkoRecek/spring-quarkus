@@ -1,0 +1,16 @@
+2019-04-06 15:17:23,448 desktop-cjss8kk surefirebooter14103151235951367770.jar[8148] INFO  [io.qua.dep.QuarkusAugmentor] (main) Beginning quarkus augmentation
+2019-04-06 15:17:23,735 desktop-cjss8kk surefirebooter14103151235951367770.jar[8148] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-04-06 15:17:25,719 desktop-cjss8kk surefirebooter14103151235951367770.jar[8148] INFO  [io.qua.dep.QuarkusAugmentor] (main) Quarkus augmentation completed in 2271ms
+2019-04-06 15:17:26,445 desktop-cjss8kk surefirebooter14103151235951367770.jar[8148] DEBUG [org.xnio] (main) XNIO version 3.7.0.Final
+2019-04-06 15:17:26,469 desktop-cjss8kk surefirebooter14103151235951367770.jar[8148] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.7.0.Final
+2019-04-06 15:17:26,761 desktop-cjss8kk surefirebooter14103151235951367770.jar[8148] INFO  [io.quarkus] (main) Quarkus 0.12.0 started in 0.954s. Listening on: http://[::]:8081
+2019-04-06 15:17:26,762 desktop-cjss8kk surefirebooter14103151235951367770.jar[8148] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy, spring-di]
+2019-04-06 15:17:30,378 desktop-cjss8kk surefirebooter14103151235951367770.jar[8148] INFO  [io.quarkus] (main) Quarkus stopped in 0.016s
+2019-04-06 15:19:17,568 desktop-cjss8kk surefirebooter5444456586102758678.jar[8260] INFO  [io.qua.dep.QuarkusAugmentor] (main) Beginning quarkus augmentation
+2019-04-06 15:19:17,889 desktop-cjss8kk surefirebooter5444456586102758678.jar[8260] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-04-06 15:19:19,630 desktop-cjss8kk surefirebooter5444456586102758678.jar[8260] INFO  [io.qua.dep.QuarkusAugmentor] (main) Quarkus augmentation completed in 2063ms
+2019-04-06 15:19:20,298 desktop-cjss8kk surefirebooter5444456586102758678.jar[8260] DEBUG [org.xnio] (main) XNIO version 3.7.0.Final
+2019-04-06 15:19:20,335 desktop-cjss8kk surefirebooter5444456586102758678.jar[8260] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.7.0.Final
+2019-04-06 15:19:20,441 desktop-cjss8kk surefirebooter5444456586102758678.jar[8260] INFO  [io.quarkus] (main) Quarkus 0.12.0 started in 0.744s. Listening on: http://[::]:8081
+2019-04-06 15:19:20,442 desktop-cjss8kk surefirebooter5444456586102758678.jar[8260] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy, spring-di]
+2019-04-06 15:19:23,203 desktop-cjss8kk surefirebooter5444456586102758678.jar[8260] INFO  [io.quarkus] (main) Quarkus stopped in 0.010s
